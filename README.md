@@ -9,3 +9,5 @@ This project uses the following technologies:
 - html
 - css
 - js
+- node
+- jQuery
